@@ -31,6 +31,8 @@ public class ExampleGit {
 					ph.camera();
 					ph.storage();
 					ph.osName();
+					System.out.println("mohan");
 		}
+		
 
 }
